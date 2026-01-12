@@ -1,57 +1,31 @@
-<h1 align="center">Hey 👋, I'm Aru</h1>
+<h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Frontend Developer | CS Student | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryandewade&label=Profile%20views&color=0e75b6&style=flat" alt="aryandewade" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryandewade" alt="aryandewade" /></a> </p>
 
-### 🚀 About Me
-- 🔭 Currently building **frontend projects** using **React, JavaScript, and Tailwind CSS**
-- 🌱 Learning **advanced React patterns**, **JavaScript internals**, and **DSA with C++**
-- 👯 Open to collaborating on **web apps, UI-heavy projects, and open-source**
-- 🤝 Improving **project structure, best practices, and scalable code**
-- 💬 Ask me about **HTML, CSS, JS, React basics, Git, and C++ problem-solving**
-- ⚡ Fun fact: I break things on purpose just to understand how they work 🔧
+- 🔭 I’m currently working on Frontend projects using React, JavaScript, and Tailwind CSS, focusing on clean UI, responsiveness, and reusable components. **Frontend projects using React, JavaScript, and Tailwind CSS, focusing on clean UI, responsiveness, and reusable components.**
 
----
+- 🌱 I’m currently learning Advanced React patterns, JavaScript internals, and strengthening DSA using C++, Node.js , MongoDB, Express.js. **Advanced React patterns, JavaScript internals, and strengthening DSA using C++, Node.js , MongoDB, Express.js.**
 
-### 🛠️ Tech Stack
+- 👯 I’m looking to collaborate on Open-source or personal projects related to frontend development, web apps, and logic-heavy features. **Open-source or personal projects related to frontend development, web apps, and logic-heavy features.**
+
+- 🤝 I’m looking for help with Improving project architecture, best practices, and writing more scalable frontend code. **Improving project architecture, best practices, and writing more scalable frontend code.**
+
+- 💬 Ask me about HTML, CSS, JavaScript, React basics, Git, and problem-solving with C++. **HTML, CSS, JavaScript, React basics, Git, and problem-solving with C++.**
+
+- 📫 How to reach me **aryandewade1214@gmail.com**
+
+- ⚡ Fun fact **I enjoy breaking things just to understand how they work — then rebuilding them better.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,cpp" />
+<a href="https://linkedin.com/in/aryandewade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryandewade" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aru1602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aru1602" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 📌 What I Focus On
-- Clean and responsive UI
-- Reusable components
-- Logical and readable code
-- Learning by **building real projects**
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryandewade&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=aryandewade&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryandewade/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐️ *If you like my work, consider starring a repo — it motivates me a lot!*
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryandewade&show_icons=true&locale=en&layout=compact" alt="aryandewade" /></p>
